@@ -1,3 +1,7 @@
 Meine Datei
+<<<<<<< HEAD
 Lokal geändert
+=======
+Online verändert
+>>>>>>> b36c8313b09f5cabd43104c2aac54309830e06a0
 123456
